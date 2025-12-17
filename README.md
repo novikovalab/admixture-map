@@ -1,6 +1,6 @@
 _Arabidopsis lyrata_ Admixture Map
 ==
-The population map is constructed using the implementation from the 1001 genomes project [1001 genomes project](http://1001genomes.org/).
+The population map is constructed using the implementation from the [1001 genomes project](http://1001genomes.org/).
 
 The population data represented on the piecharts was generated using the software package [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/), the default number of clusters K=8. 
 
